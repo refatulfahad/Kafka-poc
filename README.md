@@ -1,1 +1,1 @@
-# KafkaProducer
+# Kafka console app
